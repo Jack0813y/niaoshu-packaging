@@ -1,6 +1,6 @@
 # niaoshu-packaging
 
-让你的 agent 帮你写出「别人看完能复述一句」的项目发布帖。
+让你的 agent 帮你写项目发布帖。
 
 这是一个 agent skill：把花叔（[@AlchainHust](https://x.com/AlchainHust)）公开帖里包装项目的写法，拆成 12 招，再按同一套结构改写你自己的 app、skill 或开源仓库：发布标题、开源帖、README 第一句、发布前的 PRFAQ。
 
